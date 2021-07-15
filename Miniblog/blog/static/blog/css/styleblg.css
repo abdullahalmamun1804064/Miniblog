@@ -1,0 +1,10 @@
+body{
+    background: rgb(75, 74, 74);
+    color: antiquewhite;
+}
+.jumbo_color{
+    background-color: rgb(85,84,84);
+}
+.font-weight-bold{
+    font-weight:bold !important ;
+}
